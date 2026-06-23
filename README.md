@@ -1,6 +1,9 @@
 ## **Project Overview**
 This end-to-end data analytics project explores the underlying relationships between music audio features and track popularity using a dataset of 114,000+ tracks across 125 genres. Instead of relying solely on traditional genre metadata, this project utilizes Unsupervised Machine Learning (K-Means Clustering) to segment tracks into data-driven mood quadrants.
 
+<img width="666" height="374" alt="dashboard_screenshot" src="https://github.com/user-attachments/assets/2380d5ba-044b-4bb0-a0eb-b1bf6c58a0fd" />
+
+
 ## How It Works
 
 ### 1. Data Prep (PostgreSQL)
